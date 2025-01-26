@@ -1,0 +1,34 @@
+risk isn't something to avoid completely - risk opens up opportunities
+
+risk is mathematically a compound concept - product of multiple components
+1. the damage
+2. probability of the damage
+
+when we can't quantify either of these we call it uncertainity
+
+**** definition of risk *****
+“the possibility of a negative event—that is, 
+one that causes damage—brought about by internal and/or external vulnerabilities 
+which can potentially (at least  partially) be contained or even prevented.”
+
+internal factors - endogenous
+external factors - exogeneous
+
+ex - me driving a car risk of an accident can be due to me or outside events. more control over internal factors.
+
+- damage is subjective. risk cannot be separated from the group or individual to which harm is inflicted.
+
+risks (are different)- 
+1. risks we take - choice of action - we deliberately do or don't do something
+2. risks we are subjected too -  natural  disasters, pandemics, or economic/financial crises  - we are defensive
+
+
+risk and uncertainity are dynamic concepts. transition into one another.
+
+** nn taleb **
+"it’s better to assume risks you can quantify than to quantify risks you’ve already assumed."
+ - <todo - try to understand this>
+
+** Sigmund Freud **
+“When you  eliminate risk from your life, little remains.”
+
