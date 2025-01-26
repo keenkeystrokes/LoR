@@ -17,6 +17,8 @@ external factors - exogeneous
 ex - me driving a car risk of an accident can be due to me or outside events. more control over internal factors.
 
 - damage is subjective. risk cannot be separated from the group or individual to which harm is inflicted.
+- probability of risk is also subjective - different schools of probability theory - selecting a risk model is sujective and one should understand it's limits.
+
 
 risks (are different)- 
 1. risks we take - choice of action - we deliberately do or don't do something
