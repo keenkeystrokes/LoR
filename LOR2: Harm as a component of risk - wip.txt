@@ -16,4 +16,31 @@ ex - consider a loss of 1k dollars - impact would be more to a poor person than 
 impact or magnitude of harm - nature, extent ,timing (Keeney and Rescher)
 (Ralph Keeney? Nicholas Rescher? )
 
-1. nature - type of harm - financial, physical injury, death, boredom?
+1. NATURE - type of harm - financial, physical injury, death, boredom?
+2. EXTENT - more quantitative in nature - can be divided into severity and distribution.
+  2.1. severity - some measure of loss. how much?
+  2.2. distribution - individuals affected by harm AND their number. (statistical blur?). ex - 3 firefighters who died fighting a specific fire or in general job fatalites in year 2024
+ - our relationship with the people harmed
+3. TIIMING
+
+
+to eval and compare risks and thus rank them we need to measure and quantify risk
+ - this is ambiguous
+
+
+** risk profile - 8:13
+
+** Risks are NOT comparable **
+- comparing risk is trivial - can't just calc 2 nums and put them side by side- author calls them illusions of comparability - 9:53
+- example workdays calc - 2 person vs 15k person...
+
+** fundamental aspect of risk management ** 
+The fact that different parameters we use to  estimate harm may not be commensurable—especially between different types of harm
+
+then what?
+
+1. fix the nature of harm
+2. then compare extent and timing - severity, distribution and timing
+ - worst harm - high, high, high (11:57)
+
+
