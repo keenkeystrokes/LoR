@@ -1,0 +1,18 @@
+possiblity of harm | intro to probabilty
+
+
+probability is one way to  describe the possibility of harm
+
+what kind of probability?
+ - there are multiple defintions of probability from diff schools of thought
+ -
+
+ author - subjective view
+rooted in the works of Ramsey and de Finetti,  
+with some “correctives” from Jaynes  to avoid the mind projection fallacy.
+
+fallacy works in two ways
+ - our viewpoint is absolute truth T  (fatal mistake in risk management)
+ - just because we dont know something, it must be unknowable to everyone else
+
+- mind projection fallacy is an example of how social media works - ? (7:30)
