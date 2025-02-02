@@ -1,0 +1,25 @@
+probability = 20% = 0.2
+complement = negation = 80% = 0.8 (1 - 0.2 = 0.8)
+
+
+- coin landing on edge
+What happens if our model says the  event is impossible, yet it actually  happens?
+In general, we should never consider any event completely impossible  
+or completely certain, 
+unless we’re talking  about special cases—usually purely logical  
+
+
+** Cromwell's rules
+an event can  be
+1. simple - rolling a 3 on a dice
+2. composite - rolling an event number on a dice
+
+sample space - set of all possible outcomes of random phenomena
+
+empty/impossible event - opp of sample space - probab is always 0 - rolling a 7 on standard dice
+
+event space  - set of all possible outcomes | all possible combinations of those outcomes
+ - simple + composite events
+
+ mutually exclusive events 
+
