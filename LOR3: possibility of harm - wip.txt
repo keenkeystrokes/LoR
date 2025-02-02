@@ -18,3 +18,52 @@ fallacy works in two ways
 - mind projection fallacy is an example of how social media works - ? (7:30)
  - mistaken belief that others feel the same way we do
  - social media often amplifies this effect by showing users content that reinforces their beliefs
+
+diff ideas of probabilty and when they might be useful - 
+we are dealing with random phenomena
+mass random phenomena  <> single or one-shot phenomena.
+
+** mass random phenomena ** 
+- hard/impossible to predict at micro level but predictable/manageable at macro level
+- example - open air terrace with no roof  - rains - 20 tiles - probability of rain drop falling on a given tile
+Where will the 15th drop land?
+That’s really tough to answer. Even  with a model like a Poisson process,  
+any answer would still be  a very bad approximation.
+
+This information, plus the data we gather  on where and how raindrops have fallen,  
+helps us study the event  “15th raindrop on tile X.”
+
+
+** single shot phenomena ***
+there’s no  historical information; at best we can  
+draw analogies with phenomena we believe to  be similar, but that’s not always helpful.
+
+ex - What’s the probability that a drone flying over  
+an airport like JFK will cause a  plane crash with many casualties?
+
+What’s the probability of a  specific genetic mutation?
+
+our goal - try to answer these questions sometimes a precise answer cannot be found
+
+
+Probability is one way to  represent randomness.
+Given an event,  its probability is expressed as  a real number between 0 and 1.
+
+probability of event = 1 - certain/almost certain
+- there might be multiple definitions of probability
+- under one model - 1 under a diff model - 0.87
+
+nothing is ever 100%  certain—not even certainty itself.
+
+assumption --------------------
+
+if an event is impossible  according to one definition or model,  
+it will also be impossible under  any other definition or model.
+
+difference between probabilites - error or distortion
+
+probability - number between 0 and 1
+
+Pierre-Simon Laplace:  
+“The theory of probabilities is at bottom  nothing but common sense reduced to calculus.”
+
